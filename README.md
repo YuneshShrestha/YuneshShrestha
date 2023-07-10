@@ -17,9 +17,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
+   <img src="https://stackoverflow.com/users/flair/22174009.png"/> </br>
 <a href="https://github.com/YuneshShrestha">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=YuneshShrestha&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=YuneshShrestha&layout=compact&langs_count=8&theme=algolia"/>
+ 
 </a>
+  
 </p>
 
